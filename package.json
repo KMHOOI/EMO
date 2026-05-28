@@ -1,0 +1,13 @@
+{
+  "name": "@workspace/discord-bot",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node bot.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.17",
+    "discord.js": "^14.16.3"
+  }
+}
